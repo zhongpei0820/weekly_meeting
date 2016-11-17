@@ -42,7 +42,13 @@
 **Interested topic:** strings, dp, scalability, math problem.
 
 ## Pei Zhong: 
-Computer Network\(暂定）
+**Main Coding Language**: JAVA ,JavaScript.
+
+**Others Language**:Python, C, PHP.
+
+**Familiar topic**: Web Development, NodeJS, linked list, Computer Network
+
+**Interested topic:** Data, dp, string, dfs, bfs, JS Framework, OOD
 
 ## Zhenabng Liu:
 
